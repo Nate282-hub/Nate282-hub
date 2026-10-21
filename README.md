@@ -115,9 +115,6 @@ A Python desktop application that simulates passenger boarding and queue managem
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nate282-hub&layout=compact&hide_border=true&bg_color=0B0D16&title_color=D9A5B3&text_color=F7F1ED&border_radius=12" alt="Most-used languages" />
 </p>
 
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nate282-hub&bg_color=0B0D16&color=F7F1ED&line=BD7D9A&point=D9A5B3&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-</p>
 
 ## 📬 Find me on GitHub
 
