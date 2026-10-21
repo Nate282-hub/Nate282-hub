@@ -45,6 +45,11 @@ A data analytics project exploring sales performance across products, countries,
 
 **Tools used:** Python, pandas, scikit-learn, Excel, and Power BI.
 
+### 🛒 Amazon E-Commerce platform clone
+This project is a front-end clone of Amazon’s e-commerce platform, built using HTML, CSS, and JavaScript. The goal is to replicate the look and feel of Amazon’s website, focusing on user interface design and interactive features.
+
+**Focus areas:** Using JavaScript for DOM manipulation and interactivity, Mobile-friendly layout using CSS Flexbox/Grid.
+
 ### ⚡ Household Energy Consumption Analysis
 A time-series project built around household electricity usage, with data cleaning, feature preparation, model experiments, and evaluation.
 
